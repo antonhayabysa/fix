@@ -1,0 +1,4 @@
+
+Showing Recent Messages
+The file "/Users/Horacio/https/www/pinta-projects/ecomap_frontend/ios/EcoMap/EcoMap.entitlements" could not be opened. Verify the value of the CODE_SIGN_ENTITLEMENTS build setting for target "EcoMap" is correct and that the file exists on disk.
+
